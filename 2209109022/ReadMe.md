@@ -49,8 +49,7 @@ make
 ./a
 (同上)
 
-
-三、Http 与 Get
+**三、Http 与 Get
 最简单的一题：
 将 user=admin 和 passwd=admin666 两个参数传递到该网址：
 url = https: //mock.apifox.cn/m1/952027-0-default/wlcxsysb410
