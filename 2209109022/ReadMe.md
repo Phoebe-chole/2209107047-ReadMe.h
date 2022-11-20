@@ -28,12 +28,15 @@ novice2194/jgsu_wlcxsys: 井冈山大学 -网络创新实验室
 请使用 SSH 登录 Ubuntu（192.168.1.101）完成该题；
 账号：密码：
 答题区
-代码1：#include(stdio.h)
+2.1:代码1：#include(stdio.h)
 int main()
 {printf("hello world\n");return 0;}
 
-**(请自行添加代码2，......)
-CMakeLists:cmake_minimum
+**(请自行添加代码2：#include(stdio.h)
+int main()
+{int a=3,b=4;printf("%d",a+b); return 0;}
+
+**2.2:CMakeLists:cmake_minimum
 _required(version 3.20)
 project(code)
 set(CMAKE_CXX_STANDARD 17）
@@ -52,4 +55,4 @@ make
 将 user=admin 和 passwd=admin666 两个参数传递到该网址：
 url = https: //mock.apifox.cn/m1/952027-0-default/wlcxsysb410
 答题区
-返回值： {"flag":"good good study.  day day up"}
+返回值： {"flag":"good good study.  day day up"}**
