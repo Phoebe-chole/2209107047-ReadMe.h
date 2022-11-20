@@ -1,6 +1,6 @@
 ### 2022届网络创新实验室的第一次笔试(5h)
 考试指北：本卷与Baidu、Google、Bing、StackOverflow等达成深度合作，请不要怜惜它们以及合理使⽤它们。
-###一、Git和GitHub
+### 一、Git和GitHub
 众所周知，熟练使⽤Git是⼀名程序员的基本素养，⽽GitHub是全球最⼤的开源基地。所以请将本试卷以及答案使⽤Git提交到
 <novice2194/jgsu_wlcxsys:井冈⼭⼤学⽹络创新实验室>  
 **其他：**
