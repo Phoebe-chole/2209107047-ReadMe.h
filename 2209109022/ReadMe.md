@@ -52,4 +52,4 @@ make
 将 user=admin 和 passwd=admin666 两个参数传递到该网址：
 url = https: //mock.apifox.cn/m1/952027-0-default/wlcxsysb410
 答题区
-返回值： {"flag":"good good study.  day day up"}**
+返回值： {"flag":"good good study.  day day up"}
